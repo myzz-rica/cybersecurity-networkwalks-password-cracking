@@ -40,22 +40,22 @@ John the Ripper (JTR) is a popular password cracking tool used by security profe
 What I did:
 - I used an online hashcrack to find the hash of an encrypted pdf file and saved the hash in a text document.
 
-![alt text]()
+![alt text](https://github.com/myzz-rica/cybersecurity-networkwalks-password-cracking/blob/main/images/online%20hash%20crack.png)
  
 
 - Opened Jonny and uploaded John.exe
 
-![alt text]()
+![alt text](https://github.com/myzz-rica/cybersecurity-networkwalks-password-cracking/blob/main/images/jonny%20interface.png)
 
 
 - Uploaded the text file to get the password of the encrypted pdf file
 
-![alt text]()
+![alt text](https://github.com/myzz-rica/cybersecurity-networkwalks-password-cracking/blob/main/images/password%20of%20hashfile%20generated.png)
 
 
 - Successfully opned hash pdf file
 
-![alt text]()
+![alt text](https://github.com/myzz-rica/cybersecurity-networkwalks-password-cracking/blob/main/images/opened%20pdf%20file.png)
 
 
 
