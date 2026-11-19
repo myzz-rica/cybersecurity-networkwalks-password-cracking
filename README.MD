@@ -53,6 +53,11 @@ What I did:
 ![alt text](https://github.com/myzz-rica/cybersecurity-networkwalks-password-cracking/blob/main/images/password%20of%20hashfile%20generated.png)
 
 
+- Encrypted pdf file
+
+![alt text](https://github.com/myzz-rica/cybersecurity-networkwalks-password-cracking/blob/main/images/locked%20pdf%20file.png)
+
+
 - Successfully opned hash pdf file
 
 ![alt text](https://github.com/myzz-rica/cybersecurity-networkwalks-password-cracking/blob/main/images/opened%20pdf%20file.png)
